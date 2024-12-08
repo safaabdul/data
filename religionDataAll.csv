@@ -1,5 +1,5 @@
-code,areaName,year,nrPerc,rPerc
-E12000001,North East,2001,11.8,88.2
+code,areaName,year,nrPerc,rPerc,nrPercPop,rPercPop
+E12000001,North East,2001,11.8,88.2,
 E12000001,North East,2011,24.9,75.1
 E12000001,North East,2021,42.1,57.9
 E12000002,North West,2001,11.3,88.7
