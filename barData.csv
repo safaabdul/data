@@ -1,19 +1,19 @@
 areaName,perc,percValue
-NE,Religion,55.0
+NE,Religious (aggregate),55.0
 NE,No religion,40.0
-NW,Religion,62.1
+NW,Religious (aggregate),62.1
 NW,No religion,32.6
-YH,Religion,54.8
+YH,Religious (aggregate),54.8
 YH,No religion,39.4
-EM,Religion,54.2
+EM,Religious (aggregate),54.2
 EM,No religion,40.0
-WM,Religion,61.4
+WM,Religious (aggregate),61.4
 WM,No religion,32.9
-E,Religion,53.8
+E,Religious (aggregate),53.8
 E,No religion,40.2
-L,Religion,66.0
+L,Religious (aggregate),66.0
 L,No religion,27.1
-SE,Religion,53.7
+SE,Religious (aggregate),53.7
 SE,No religion,40.2
-SW,Religion,49.5
+SW,Religious (aggregate),49.5
 SW,No religion,44.1
