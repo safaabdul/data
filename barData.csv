@@ -1,19 +1,19 @@
 areaName,perc,percValue
-NE,r,55.0
-NE,nr,40.0
-NW,r,62.1
-NW,nr,32.6
-YH,r,54.8
-YH,nr,39.4
-EM,r,54.2
-EM,nr,40.0
-WM,r,61.4
-WM,nr,32.9
-E,r,53.8
-E,nr,40.2
-L,r,66.0
-L,nr,27.1
-SE,r,53.7
-SE,nr,40.2
-SW,r,49.5
-SW,nr,44.1
+NE,Religious,55.0
+NE,Not religious,40.0
+NW,Religious,62.1
+NW,Not religious,32.6
+YH,Religious,54.8
+YH,Not religious,39.4
+EM,Religious,54.2
+EM,Not religious,40.0
+WM,Religious,61.4
+WM,Not religious,32.9
+E,Religious,53.8
+E,Not religious,40.2
+L,Religious,66.0
+L,Not religious,27.1
+SE,Religious,53.7
+SE,Not religious,40.2
+SW,Religious,49.5
+SW,Not religious,44.1
