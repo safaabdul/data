@@ -1,19 +1,19 @@
 areaName,perc,percValue
-North East,r,55.0
-North East,nr,40.0
-North West,r,62.1
-North West,nr,32.6
-Yorkshire & The Humber,r,54.8
-Yorkshire & The Humber,nr,39.4
-East Midlands,r,54.2
-East Midlands,nr,40.0
-West Midlands,r,61.4
-West Midlands,nr,32.9
-East of England,r,53.8
-East of England,nr,40.2
-London,r,66.0
-London,nr,27.1
-South East,r,53.7
-South East,nr,40.2
-South West,r,49.5
-South West,nr,44.1
+NE,r,55.0
+NE,nr,40.0
+NW,r,62.1
+NW,nr,32.6
+YH,r,54.8
+YH,nr,39.4
+EM,r,54.2
+EM,nr,40.0
+WM,r,61.4
+WM,nr,32.9
+E,r,53.8
+E,nr,40.2
+L,r,66.0
+L,nr,27.1
+SE,r,53.7
+SE,nr,40.2
+SW,r,49.5
+SW,nr,44.1
