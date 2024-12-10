@@ -1,6 +1,6 @@
 areaName,perc,percValue
-NE,Religion (All),55.0
-NE,No religion,40.0
+NE,Religious,55.0
+NE,Not religious,40.0
 NE,Christian,50.8
 NE,Buddist,0.27
 NE,Hindu,0.41
@@ -8,8 +8,8 @@ NE,Jewish,0.17
 NE,Muslim,2.72
 NE,Sikh,0.27
 NE,Other,0.38
-NW,Religion (All),62.1
-NW,No religion,32.6
+NW,Religious,62.1
+NW,Not religious,32.6
 NW,Christian,52.5
 NW,Buddist,0.31
 NW,Hindu,0.67
@@ -17,8 +17,8 @@ NW,Jewish,0.45
 NW,Muslim,7.59
 NW,Sikh,0.16
 NW,Other,0.38
-YH,Religion (All),54.8
-YH,No religion,39.4
+YH,Religious,54.8
+YH,Not religious,39.4
 YH,Christian,44.9
 YH,Buddist,0.29
 YH,Hindu,0.53
@@ -26,8 +26,8 @@ YH,Jewish,0.17
 YH,Muslim,8.07
 YH,Sikh,0.44
 YH,Other,0.43
-EM,Religion (All),54.2
-EM,No religion,40.0
+EM,Religious,54.2
+EM,Not religious,40.0
 EM,Christian,45.4
 EM,Buddist,0.30
 EM,Hindu,2.47
@@ -35,8 +35,8 @@ EM,Jewish,0.09
 EM,Muslim,4.32
 EM,Sikh,1.11
 EM,Other,0.51
-WM,Religion (All),61.4
-WM,No religion,32.9
+WM,Religious,61.4
+WM,Not religious,32.9
 WM,Christian,46.6
 WM,Buddist,0.32
 WM,Hindu,0.15
@@ -44,8 +44,8 @@ WM,Jewish,0.07
 WM,Muslim,9.58
 WM,Sikh,2.89
 WM,Other,0.53
-E,Religion (All),53.8
-E,No religion,40.2
+E,Religious,53.8
+E,Not religious,40.2
 E,Christian,46.6
 E,Buddist,0.42
 E,Hindu,1.37
@@ -53,8 +53,8 @@ E,Jewish,0.67
 E,Muslim,3.71
 E,Sikh,0.38
 E,Other,0.57
-L,Religion (All),66.0
-L,No religion,27.1
+L,Religious,66.0
+L,Not religious,27.1
 L,Christian,40.7
 L,Buddist,0.88
 L,Hindu,5.15
@@ -62,8 +62,8 @@ L,Jewish,1.65
 L,Muslim,15.0
 L,Sikh,1.64
 L,Other,0.99
-SE,Religion (All),53.7
-SE,No religion,40.2
+SE,Religious,53.7
+SE,Not religious,40.2
 SE,Christian,46.5
 SE,Buddist,0.59
 SE,Hindu,1.67
@@ -71,8 +71,8 @@ SE,Jewish,0.20
 SE,Muslim,3.33
 SE,Sikh,0.80
 SE,Other,0.58
-SW,Religion (All),49.5
-SW,No religion,44.1
+SW,Religious,49.5
+SW,Not religious,44.1
 SW,Christian,46.2
 SW,Buddist,0.43
 SW,Hindu,0.49
